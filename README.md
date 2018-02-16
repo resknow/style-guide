@@ -70,3 +70,7 @@ Use elements for what they have been created for. For examples use heading eleme
 ### Links & Buttons
 
 Use the `a` tag if it links to something. Otherwise, use a `button`.
+
+-----
+
+Thanks to Wixel for the inspiration, see https://github.com/Wixel/Markup-Style-Guide
